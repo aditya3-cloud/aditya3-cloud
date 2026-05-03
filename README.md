@@ -13,4 +13,4 @@
 Analyzing salary trends, AI risk & job demand
 
 ## 📫 Connect with me
-LinkedIn: your-link
+LinkedIn: https://www.linkedin.com/in/aditya-moharil-16ba92171/
