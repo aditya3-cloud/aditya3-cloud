@@ -1,4 +1,5 @@
 # Hi, I'm Aditya 👋
+![Banner](banner.png)
 
 🚀 Data Analyst passionate about turning data into insights
 
